@@ -1,0 +1,9 @@
+{
+  "name": "page-copy-architect",
+  "version": "1.0.0",
+  "description": "P.A.G.E framework — arsitektur product page yang menyeimbangkan SEO ranking factors dan conversion copywriting via zone system (SEO / Hybrid / Conversion zone).",
+  "author": {
+    "name": "Lawrence Philemon"
+  },
+  "keywords": ["seo", "copywriting", "product-page", "landing-page", "conversion"]
+}
