@@ -1,4 +1,4 @@
-# lawrence-claude-plugins
+# page-copy-architecture
 
 marketplace pribadi untuk plugin claude code — Lawrence Philemon.
 
